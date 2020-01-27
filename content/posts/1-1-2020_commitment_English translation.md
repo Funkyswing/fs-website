@@ -1,13 +1,12 @@
 ---
-title: "密码学中 “Commitment” 的翻译"
+title: "为何 “Commitment” 称为“秘诺”"
 date: 2020-01-01T02:27:12+08:00
 draft: false
 tags: 
-  - trnaslation
+  - translation
   - cryptography
+  - 中文
 ---
-
-
 
 前几天在翻译 [Grin](https://github.com/mimblewimble/grin) 的文档 [Introduction to Switch Commitments](https://github.com/mimblewimble/grin/blob/master/doc/switch_commitment.md) 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看[维基百科](https://en.wikipedia.org/wiki/Commitment_scheme)对这个词的解释。
 
@@ -31,7 +30,9 @@ tags:
 
 事实上，“*commitment*” 是一个通过哈希函数运算的一个值，发送者交给接收者。之后发送者再公开运算 “*commitment*” 的密数和致盲因子，由接收者验证哈希值是否匹配。
 
-那么，“*commitment*” 这里就有两个含义，一个是密数，一个是不能更改的承诺。因此将 “*commitment*” 翻译为**“秘诺”**。“密”是名词，“秘” 是形容词，所以取“秘”。“诺”即表示“承诺”。直接表明这个词在密码学中含义。
+那么，*“commitment”* 这里就有两个含义，一个是密数，一个是不能更改的承诺。“密”是名词，“秘” 是形容词，所以取“秘”。“诺”即表示“承诺”。因此将 “*commitment*” 翻译为“**秘诺**”，简洁明了，传达其在密码学中的含义。
+
+《秘诺切换简介》一文，阅读请点击[这里](https://github.com/Funkyswing/grin/blob/master/doc/switch_commitment_ZH-CN.md)。
 
 ---
 
