@@ -2,6 +2,7 @@
 title: "VPS 上运行 Grin 全节点"
 date: 2020-05-15
 draft: false
+author: "楊小猴"
 tags:
   - crypto
   - 中文
