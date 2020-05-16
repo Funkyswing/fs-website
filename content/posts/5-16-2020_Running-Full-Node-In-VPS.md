@@ -16,6 +16,8 @@ tags:
 * 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。
 * 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。
 
+---------------------------------
+
 ### 准备
 
 * VPS
@@ -91,7 +93,7 @@ cd grin
 cargo build --release
 ```
 
-这步大概需要 30 分钟。等待期间可以浏览 [Grin Wiki 百科页面](https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide)，多了解 Grin。
+也可以从[这里](https://github.com/mimblewimble/grin/releases)直接下载新版本节点。这步大概需要 30 分钟。等待期间可以浏览 [Grin Wiki 百科页面](https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide)，多了解 Grin。
 
 设置节点：
 
