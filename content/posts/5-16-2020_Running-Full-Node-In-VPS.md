@@ -117,10 +117,11 @@ export PATH=`pwd`/target/release:$PATH
 grin
 ```
 
-设置节点文件（可选）
+设置节点配置文件（可选）
 
 ```
-nano .grin/main/grin-server.toml
+cd  #进入根目录
+nano .grin/main/grin-server.toml  #打开配置文件
 ```
 
 设置 `api_http_addr = "0.0.0.0:3413"` 和 `host = "::"`。
