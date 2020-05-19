@@ -135,8 +135,17 @@ nano .grin/main/grin-server.toml  #打开配置文件
 
 ----------------------
 
-Donations:
+*参考：*
 
-Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd
+1. *[How to: Run a Grin node on Google Cloud for free](https://github.com/mimblewimble/docs/wiki/How-to%3A-Run-a-Grin-node-on-Google-Cloud-for-free)*
+2. *[Running a Grin Node](https://github.com/mimblewimble/docs/wiki/How-to-run-a-Grin-node)*
+3. *https://github.com/MCM-Mike/grinnode.live/blob/master/grin-server.toml*
+4. *[How to use the Grin wallet](https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet)*
 
-XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM
+----------------------
+
+##### Donations:
+
+##### Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd
+
+##### XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM
