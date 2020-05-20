@@ -141,6 +141,7 @@ nano .grin/main/grin-server.toml  #打开配置文件
 2. *[Running a Grin Node](https://github.com/mimblewimble/docs/wiki/How-to-run-a-Grin-node)*
 3. *https://github.com/MCM-Mike/grinnode.live/blob/master/grin-server.toml*
 4. *[How to use the Grin wallet](https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet)*
+5. *[How to install Grin node on VPS (下载安装)](https://medium.com/@28e6d94f/how-to-install-and-run-a-grin-node-with-a-debianvps-dab8dcbe88d8)*
 
 ----------------------
 

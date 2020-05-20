@@ -1,5 +1,5 @@
 ---
-title: "Brave 浏览器广告“挖矿”"
+title: "Brave 的“注意力价值”生态"
 date: 2020-05-19
 draft: false
 author: "楊小猴"
@@ -41,11 +41,11 @@ Brave 奖励机制以 Basic Attention Token (BAT) 为基础。主要分为两部
 
 Brave 在机器学习的帮助下建立“注意力价值”生态，保护用户因此的情况下，让广告主能更有针对性发布广告，让用户有更多自主选择权。用户和广告主双赢。
 
-### 如何浏览广告“挖矿”
+### 浏览广告“挖矿”
 
-与 POW 和 POS 共识协议不同，BAT 仅是一种单纯的奖励措施。
+**与 POW 和 POS 共识算法不同，BAT 奖励并非参与记账和维护账本安全统一，也没有参与铸币，严格来说仅是单纯的奖励措施。**
 
-1. 安装浏览器后，打开 Brave Rewards 点击进入
+获得奖励操作如下：
 
 1. 安装浏览器后，打开 Brave Rewards 点击进入
 
@@ -70,6 +70,8 @@ Brave 在机器学习的帮助下建立“注意力价值”生态，保护用�
 1. *[Brave 首页](https://brave.com/)*
 2. *[问答集](https://brave.com/faq/#concerns)*
 3. *[What Is the Basic Attention Token (BAT)?](https://coincentral.com/what-is-bat/)*
+4. https://www.bat.watch/
+5. [以太坊链上信息](https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef#readContract)
 
 --------------------
 
