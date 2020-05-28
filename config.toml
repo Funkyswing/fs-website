@@ -66,16 +66,16 @@ googleAnalytics = "UA-123-45"
 [menu]
 
   [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "posts/"
     weight = 10
+
+  [[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 20
 
   [[menu.main]]
     name = "About Me"
     url = "about-me/"
     weight = 20
-
-    [[menu.main]]
-      name = "Tags"
-      url = "tags/"
-      weight = 20

@@ -42,7 +42,7 @@ Brave 的模式主要两种形式：
 
 随着数字生活的发展，“隐私”逐渐为大众所关注。随着“隐私服务”使用对用户更友好，使用更便捷，隐私会成为服务必选项。也会有更多用户倾向于选择“隐私服务”。
 
-**相对于多数加密货币或区块链项目以颠覆者的形象示人，Brave 更像是一个建设者，对现有秩序的改造者。**对技术主义者 Maximalist 而言，Brave 根本就不算不上区块链项目。除了利用以太坊发币以外，没有什么前沿的密码学和分布式账本技术，甚至连共识机制都没有。但 Brave 就是以这样简单的方式，将传统互联网与加密货币连结在一起。虽然看起来粗糙，却非常实用。Brave 最有潜质成为加密资产世界的流量入口。
+**相对于多数加密货币或区块链项目以颠覆者的形象示人，Brave 更像是一个建设者，对现有秩序的改造者**。对技术主义者 Maximalist 而言，Brave 根本就不算不上区块链项目。除了利用以太坊发币以外，没有什么前沿的密码学和分布式账本技术，甚至连共识机制都没有。但 Brave 就是以这样简单的方式，将传统互联网与加密货币连结在一起。虽然看起来粗糙，却非常实用。Brave 最有潜质成为加密资产世界的流量入口。
 
 当然，这并不意味着 Brave 一定会成功，一定会胜出。前方也会遇到诸多挑战。例如，广告无法在搜索引擎和网站页面中发布；对单一浏览器的严重依赖；缺少更多社交互动形态。
 
@@ -63,10 +63,11 @@ https://www.statista.com/outlook/216/100/digital-advertising/worldwide#market-re
 ---------------
 
 ##### *Donation:*
-##### *BTC: 13B1egteYRnEsTA7mY5AdqUT3DhACmqiyL*
+*BTC: 13B1egteYRnEsTA7mY5AdqUT3DhACmqiyL*
 
-##### *ETH: 0x19DB3775ce48A0f96CD8D9C9E2d30B23705a35f5*
+*ETH: 0x19DB3775ce48A0f96CD8D9C9E2d30B23705a35f5*
 
-##### *XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM*
+*XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM*
 
-##### *Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd*
+*Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd*
+
