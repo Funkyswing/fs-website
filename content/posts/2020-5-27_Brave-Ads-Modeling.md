@@ -1,5 +1,5 @@
 ---
-title: "Brave 商业模式及未来"
+title: "加密资产 | Brave 商业模式及未来"
 date: 2020-05-27
 draft: false
 author: "楊小猴"
