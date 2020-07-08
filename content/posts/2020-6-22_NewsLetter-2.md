@@ -3,6 +3,7 @@ title: "分布所周报 #02 | DeFi 可以变革金融吗"
 date: 2020-06-22
 draft: false
 author: "楊小猴"
+toc: true
 tags:
   - newsletter
   - 中文

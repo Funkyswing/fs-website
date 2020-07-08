@@ -1,5 +1,5 @@
 ---
-title: "VPS 上运行 Grin 全节点"
+title: "VPS 运行 Grin 全节点"
 date: 2020-05-15
 draft: false
 author: "楊小猴"
@@ -143,10 +143,3 @@ nano .grin/main/grin-server.toml  #打开配置文件
 4. *[How to use the Grin wallet](https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet)*
 5. *[How to install Grin node on VPS (下载安装)](https://medium.com/@28e6d94f/how-to-install-and-run-a-grin-node-with-a-debianvps-dab8dcbe88d8)*
 
-----------------------
-
-##### Donations:
-
-##### Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd
-
-##### XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM
