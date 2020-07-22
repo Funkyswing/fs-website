@@ -1,5 +1,5 @@
 ---
-title: "分布所周报 #01 | 金融创新"
+title: "分布所周刊 #01 | 金融创新"
 date: 2020-06-16
 draft: false
 author: "楊小猴"

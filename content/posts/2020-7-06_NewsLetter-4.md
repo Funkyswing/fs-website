@@ -1,5 +1,5 @@
 ---
-title: "分布所周报 #04 | 金融创新"
+title: "分布所周刊 #04 | 金融创新"
 date: 2020-07-06
 draft: false
 author: "楊小猴"
@@ -23,12 +23,6 @@ tags:
 **_# -_ ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。**[DerivaDEX 下一代衍生品交易所](https://medium.com/derivadex/introducing-derivadex-a-next-generation-decentralized-exchange-for-derivatives-62cc0ab8ee7d)**
 
 **_# -_ ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。**[收益农场简介](https://defirate.com/earn/)** 
-
-
-
-### 金融：
-
-
 
 
 
