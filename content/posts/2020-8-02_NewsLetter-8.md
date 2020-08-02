@@ -32,7 +32,7 @@ tags:
 
 DeFi 总锁仓量也超过 40 亿美元。Maker 占比 超过 30%。
 
-![name](/inserted-images/8-02_4.jpg)
+![name](/inserted-images/8-02_5.jpg)
 
 
 
