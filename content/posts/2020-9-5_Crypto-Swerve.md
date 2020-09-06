@@ -1,5 +1,5 @@
 ---
-title: "加密资产 4 | Swerve  农民起义"
+title: "加密资产 四 | Swerve  农民起义"
 date: 2020-09-05
 draft: false
 author: "楊小猴"
