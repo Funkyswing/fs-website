@@ -28,7 +28,7 @@ tags:
 * CoinDesk 20 最热资产加入  Orchid ([OXT](https://www.coindesk.com/price/orchid))，替换掉 basic attention token (BAT)
 * 1inch.exchange 的 DEX [Mooniswap](https://mooniswap.exchange/#/swap) 整合入 Tron
 * BSC 上的 Compound 分叉 Cream.finance 推出 Balancer 分叉 Cream Swap
-* NGC Ventures、Alameda Research、Hashed、Soul Capital、Moonrock Capital 和 PANONY 战略投资跨链合成资产交易平台 [Linear Finance 1800 万美元](https://www.theblockcrypto.com/post/77236/defi-linear-finance-raises-1-8-million-synthetic-asset-exchange?utm_source=newsletter&utm_medium=email&utm_campaign=2020-09-09)
+* NGC Ventures、Alameda Research、Hashed、Soul Capital、Moonrock Capital 和 PANONY 战略投资跨链合成资产交易平台 [Linear Finance 180 万美元](https://www.theblockcrypto.com/post/77236/defi-linear-finance-raises-1-8-million-synthetic-asset-exchange?utm_source=newsletter&utm_medium=email&utm_campaign=2020-09-09)
 * USDC 支持 Algorand
 * Tether 在 Solona 发行 USDT
 * [Blockchain.com 交易所上架](https://medium.com/blockchain/the-easiest-way-to-buy-popular-defi-tokens-yfi-and-lend-72112f50d99a) YFI 和 LEND
